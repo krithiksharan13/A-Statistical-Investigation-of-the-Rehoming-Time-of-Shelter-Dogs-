@@ -16,8 +16,10 @@ waits before adoption**. Using classical statistical methods at a
 analysis, probability modelling, confidence intervals, and breed
 comparisons.
 
-The analysis focuses on three dog breeds: - Labrador Retriever\
-- Shih Tzu\
+The analysis focuses on three dog breeds: 
+
+- Labrador Retriever
+- Shih Tzu
 - Staffordshire Bull Terrier
 
 The work is designed to be interpretable to readers with a background in
